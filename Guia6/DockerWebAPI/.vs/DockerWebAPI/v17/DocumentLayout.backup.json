@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia6\\DockerWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778951E8-3F35-49CE-9415-AB4E449F2353}|DockerWebAPI\\DockerWebAPI.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia6\\dockerwebapi\\dockerwebapi\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{778951E8-3F35-49CE-9415-AB4E449F2353}|DockerWebAPI\\DockerWebAPI.csproj|solutionrelative:dockerwebapi\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "compose.yaml",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia6\\DockerWebAPI\\DockerWebAPI\\compose.yaml",
+              "RelativeDocumentMoniker": "DockerWebAPI\\compose.yaml",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia6\\DockerWebAPI\\DockerWebAPI\\compose.yaml",
+              "RelativeToolTip": "DockerWebAPI\\compose.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-28T22:38:57.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

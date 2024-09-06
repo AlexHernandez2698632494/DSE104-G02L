@@ -1,0 +1,174 @@
+﻿{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/productos",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7218
+        }
+      ],
+      "UpstreamPathTemplate": "/productos",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHttpMethod": "Get",
+      "SwaggerKey": "Productos"
+    },
+    {
+      "DownstreamPathTemplate": "/api/productos/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7218
+        }
+      ],
+      "UpstreamPathTemplate": "/productos/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHttpMethod": "Get",
+      "SwaggerKey": "Productos"
+    },
+    {
+      "DownstreamPathTemplate": "/api/productos",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7218
+        }
+      ],
+      "UpstreamPathTemplate": "/productos",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamHttpMethod": "Post",
+      "SwaggerKey": "Productos"
+    },
+    {
+      "DownstreamPathTemplate": "/api/productos/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7218
+        }
+      ],
+      "UpstreamPathTemplate": "/productos/{id}",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamHttpMethod": "Put",
+      "SwaggerKey": "Productos"
+    },
+    {
+      "DownstreamPathTemplate": "/api/productos/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7218
+        }
+      ],
+      "UpstreamPathTemplate": "/productos/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamHttpMethod": "Delete",
+      "SwaggerKey": "Productos"
+    },
+    //Libros
+    {
+      "DownstreamPathTemplate": "/api/libros",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7245
+        }
+      ],
+      "UpstreamPathTemplate": "/libros",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHttpMethod": "Get",
+      "SwaggerKey": "Libros"
+    },
+    {
+      "DownstreamPathTemplate": "/api/libros/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7245
+        }
+      ],
+      "UpstreamPathTemplate": "/libros/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHttpMethod": "Get",
+      "SwaggerKey": "Libros"
+    },
+    {
+      "DownstreamPathTemplate": "/api/libros",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7245
+        }
+      ],
+      "UpstreamPathTemplate": "/libros",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamHttpMethod": "Post",
+      "SwaggerKey": "Libros"
+    },
+    {
+      "DownstreamPathTemplate": "/api/libros/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7245
+        }
+      ],
+      "UpstreamPathTemplate": "/libors/{id}",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamHttpMethod": "Put",
+      "SwaggerKey": "Libros"
+    },
+    {
+      "DownstreamPathTemplate": "/api/libros/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7245
+        }
+      ],
+      "UpstreamPathTemplate": "/libors/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamHttpMethod": "Delete",
+      "SwaggerKey": "Libros"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7221",
+    "SwaggerEndPoints": [
+      {
+        "Key": "Productos",
+        "Config": [
+          {
+            "Name": "Productos API",
+            "Scheme": "https",
+            "Host": "localhost",
+            "Port": 7218,
+            "Path": "/swagger/v1/swagger.json"
+          }
+        ]
+      },
+      {
+        "Key": "Libros",
+        "Config": [
+          {
+            "Name": "Libros API",
+            "Scheme": "https",
+            "Host": "localhost",
+            "Port": 7245,
+            "Path": "/swagger/v1/swagger.json"
+          }
+        ]
+      }
+    ]
+  }
+}

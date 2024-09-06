@@ -1,0 +1,85 @@
+﻿/* Estilo para el fondo de la página con degradado */
+body {
+    background: linear-gradient(153deg, #153999 7%, #429FED 46%, #1C49A6 68%, #081D5E 90%, #031240 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color:white;
+}
+
+/* Estilo para el contenedor con degradado de grises */
+.card {
+    background: linear-gradient(45deg, #e0e0e0, #f5f5f5);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border: none;
+    width: 100%; /* Asegura que la tarjeta se adapte al contenedor */
+    color:white;
+}
+
+/* Cabecera de la tarjeta */
+.card-header {
+    background: linear-gradient(153deg, #01050B 0%, #2C2D31 37%, #3D3E40 66%, #01050B 100%);
+    border-bottom: 1px solid #dee2e6;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.25rem;
+    color: #fff;
+    padding:3%;
+}
+
+/* Cuerpo de la tarjeta */
+.card-body {
+    background: linear-gradient(153deg, #01050B 0%, #2C2D31 37%, #3D3E40 66%, #01050B 100%);
+    padding: 30px;
+    color:white;
+}
+
+/* Estilo para los inputs */
+.form-control {
+    background-color: #ffffff; /* Fondo blanco */
+    color: #333; /* Texto de color oscuro */
+    border: 1px solid #ced4da; /* Borde claro */
+    border-radius: 4px;
+    padding: 10px;
+    width: 100%; /* Toma todo el ancho del contenedor */
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+    margin-bottom: 1rem; /* Espaciado inferior */
+}
+
+/* Botón de inicio de sesión */
+.btn-primary {
+    background-color: transparent; /* Fondo transparente */
+    border: 2px solid #ffffff; /* Contorno blanco */
+    border-radius: 4px;
+    font-size: 1rem;
+    padding: 10px;
+    width: 100%; /* Toma todo el ancho del contenedor */
+    color: #ffffff; /* Texto blanco */
+    margin-bottom: 20px; /* Espaciado inferior para separar del texto */
+    transition: background-color 0.3s, color 0.3s; /* Transición suave */
+}
+
+/* Estilo para el enlace de registro */
+a {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Ajuste del espacio superior del enlace de registro */
+.card-body a {
+    margin-top: 10px;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+/* Ajustes adicionales para la estructura */
+.container {
+    max-width: 400px;
+    width: 100%;
+}

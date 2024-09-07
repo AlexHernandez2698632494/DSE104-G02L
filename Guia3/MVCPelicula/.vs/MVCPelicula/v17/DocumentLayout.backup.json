@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia3\\MVCPelicula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia3\\mvcpelicula\\mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia3\\mvcpelicula\\mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia3\\MVCPelicula\\MVCPelicula\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCPelicula\\appsettings.json",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia3\\MVCPelicula\\MVCPelicula\\appsettings.json",
+              "RelativeToolTip": "MVCPelicula\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T17:59:28.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia3\\MVCPelicula\\MVCPelicula\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Program.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia3\\MVCPelicula\\MVCPelicula\\Program.cs",
+              "RelativeToolTip": "MVCPelicula\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:19:11.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\Biblioteca.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2687AB6E-4B8F-4D8D-9352-E0B3840446D8}|..\\Biblioteca.DAL\\Biblioteca.DAL.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia4\\biblioteca.dal\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FA1DB-2917-4FBC-BB7C-810714687194}|..\\Biblioteca.BL\\Biblioteca.BL.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia4\\biblioteca.bl\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\Biblioteca.DAL\\AutorRepository.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca.DAL\\AutorRepository.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\Biblioteca.DAL\\AutorRepository.cs",
+              "RelativeToolTip": "..\\Biblioteca.DAL\\AutorRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:45:09.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\Biblioteca.BL\\AutorService.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca.BL\\AutorService.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\Biblioteca.BL\\AutorService.cs",
+              "RelativeToolTip": "..\\Biblioteca.BL\\AutorService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwCwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:44:18.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

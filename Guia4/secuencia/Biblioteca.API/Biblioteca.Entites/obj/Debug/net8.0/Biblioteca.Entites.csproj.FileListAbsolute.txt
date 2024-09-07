@@ -1,0 +1,11 @@
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\bin\Debug\net8.0\Biblioteca.Entites.deps.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\bin\Debug\net8.0\Biblioteca.Entites.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\bin\Debug\net8.0\Biblioteca.Entites.pdb
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\obj\Debug\net8.0\Biblioteca.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\obj\Debug\net8.0\Biblioteca.Entites.AssemblyInfoInputs.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\obj\Debug\net8.0\Biblioteca.Entites.AssemblyInfo.cs
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\obj\Debug\net8.0\Biblioteca.Entites.csproj.CoreCompileInputs.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\obj\Debug\net8.0\Biblioteca.Entites.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\obj\Debug\net8.0\refint\Biblioteca.Entites.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\obj\Debug\net8.0\Biblioteca.Entites.pdb
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Entites\obj\Debug\net8.0\ref\Biblioteca.Entites.dll

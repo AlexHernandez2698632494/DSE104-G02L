@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26506BCC-ABC1-4B8A-B04F-EDDAD205015A}|Biblioteca.API\\Biblioteca.API.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia4\\secuencia\\biblioteca.api\\biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26506BCC-ABC1-4B8A-B04F-EDDAD205015A}|Biblioteca.API\\Biblioteca.API.csproj|solutionrelative:biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA990C9-6C3D-4721-A489-09792C82FF91}|Biblioteca.BL\\Biblioteca.BL.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia4\\secuencia\\biblioteca.api\\biblioteca.bl\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA990C9-6C3D-4721-A489-09792C82FF91}|Biblioteca.BL\\Biblioteca.BL.csproj|solutionrelative:biblioteca.bl\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26506BCC-ABC1-4B8A-B04F-EDDAD205015A}|Biblioteca.API\\Biblioteca.API.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia4\\secuencia\\biblioteca.api\\biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26506BCC-ABC1-4B8A-B04F-EDDAD205015A}|Biblioteca.API\\Biblioteca.API.csproj|solutionrelative:biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26506BCC-ABC1-4B8A-B04F-EDDAD205015A}|Biblioteca.API\\Biblioteca.API.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia4\\secuencia\\biblioteca.api\\biblioteca.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26506BCC-ABC1-4B8A-B04F-EDDAD205015A}|Biblioteca.API\\Biblioteca.API.csproj|solutionrelative:biblioteca.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\Biblioteca.API\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Biblioteca.API\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\Biblioteca.API\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Biblioteca.API\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:11:16.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\Biblioteca.BL\\Services\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Biblioteca.BL\\Services\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\Biblioteca.BL\\Services\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Biblioteca.BL\\Services\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:10:10.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\Biblioteca.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Biblioteca.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\Biblioteca.API\\appsettings.json",
+              "RelativeToolTip": "Biblioteca.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T22:35:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\Biblioteca.API\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca.API\\Program.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia4\\secuencia\\Biblioteca.API\\Biblioteca.API\\Program.cs",
+              "RelativeToolTip": "Biblioteca.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:23:04.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

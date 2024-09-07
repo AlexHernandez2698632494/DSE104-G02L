@@ -1,0 +1,11 @@
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\bin\Debug\net8.0\Biblioteca.Common.deps.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\bin\Debug\net8.0\Biblioteca.Common.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\bin\Debug\net8.0\Biblioteca.Common.pdb
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.AssemblyInfoInputs.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.AssemblyInfo.cs
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.csproj.CoreCompileInputs.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\refint\Biblioteca.Common.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.pdb
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\Guia4\secuencia\Biblioteca.API\Biblioteca.Common\obj\Debug\net8.0\ref\Biblioteca.Common.dll

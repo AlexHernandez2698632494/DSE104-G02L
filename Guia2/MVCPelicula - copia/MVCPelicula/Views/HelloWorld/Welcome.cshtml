@@ -1,0 +1,36 @@
+﻿@* 
+@{
+    ViewData["Title"] = "Welcome";
+}
+
+<h1>Welcome</h1>
+
+ *@
+@* @{
+    ViewData["Title"] = "Bienvenido";
+}
+<h1>Bienvenido</h1>
+<ul>
+    @{
+        int numVeces = (int)ViewData["numVeces"]; 
+        for (int i = 0; i < numVeces; i++)
+        {
+            <li>@ViewData["nombre"]</li>
+        }
+    }
+</ul> *@
+
+@{
+    ViewData["Title"] = "Bienvenido";
+}
+<h1>Bienvenido</h1>
+<ul>
+    @{
+        int numVeces = (int)ViewData["numVeces"];
+        string nombreCompleto = (string)ViewData["nombreCompleto"];
+        for (int i = 0; i < numVeces; i++)
+        {
+            <li>@nombreCompleto, veces mostrado = @(i + 1)</li>
+        }
+    }
+</ul>

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia2\\mvcpelicula - copia\\mvcpelicula\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia2\\mvcpelicula - copia\\mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia2\\mvcpelicula - copia\\mvcpelicula\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia2\\mvcpelicula - copia\\mvcpelicula\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia2\\mvcpelicula - copia\\mvcpelicula\\models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia2\\mvcpelicula - copia\\mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{660413D4-AA5A-4D70-ADDF-32AB53F7190E}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "MVCPelicula\\Controllers\\PeliculasController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAuwD0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:49:21.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculasDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:42:46.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Models\\Genero.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\Genero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:41:41.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Models\\Pelicula.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\Pelicula.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:59:54.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Program.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\Program.cs",
+              "RelativeToolTip": "MVCPelicula\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:45:04.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCPelicula\\appsettings.json",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia2\\MVCPelicula - copia\\MVCPelicula\\appsettings.json",
+              "RelativeToolTip": "MVCPelicula\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T04:43:24.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

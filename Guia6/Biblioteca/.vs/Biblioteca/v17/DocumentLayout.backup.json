@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9E16D379-25AC-437A-A47C-5388BE74DF3B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E16D379-25AC-437A-A47C-5388BE74DF3B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia6\\biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9E16D379-25AC-437A-A47C-5388BE74DF3B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E16D379-25AC-437A-A47C-5388BE74DF3B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia6\\biblioteca\\biblioteca\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9E16D379-25AC-437A-A47C-5388BE74DF3B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E16D379-25AC-437A-A47C-5388BE74DF3B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia6\\biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E16D379-25AC-437A-A47C-5388BE74DF3B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia6\\Biblioteca\\Biblioteca\\appsettings.json",
               "RelativeDocumentMoniker": "Biblioteca\\appsettings.json",
               "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia6\\Biblioteca\\Biblioteca\\appsettings.json",
               "RelativeToolTip": "Biblioteca\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-28T22:48:44.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "compose.yaml",
               "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia6\\Biblioteca\\Biblioteca\\compose.yaml",
               "RelativeDocumentMoniker": "Biblioteca\\compose.yaml",

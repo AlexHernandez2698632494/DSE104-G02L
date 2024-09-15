@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0883B971-9570-4D3C-BAE1-B031B8F03A05}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\dui\\personasapi.tests\\personascontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0883B971-9570-4D3C-BAE1-B031B8F03A05}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|solutionrelative:personasapi.tests\\personascontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455C34B0-D591-4611-9EB8-C53F1FA87159}|DUI\\DUI.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\dui\\dui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455C34B0-D591-4611-9EB8-C53F1FA87159}|DUI\\DUI.csproj|solutionrelative:dui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455C34B0-D591-4611-9EB8-C53F1FA87159}|DUI\\DUI.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\dui\\dui\\controllers\\personasapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455C34B0-D591-4611-9EB8-C53F1FA87159}|DUI\\DUI.csproj|solutionrelative:dui\\controllers\\personasapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455C34B0-D591-4611-9EB8-C53F1FA87159}|DUI\\DUI.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\dui\\dui\\models\\personascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455C34B0-D591-4611-9EB8-C53F1FA87159}|DUI\\DUI.csproj|solutionrelative:dui\\models\\personascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455C34B0-D591-4611-9EB8-C53F1FA87159}|DUI\\DUI.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\dui\\dui\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455C34B0-D591-4611-9EB8-C53F1FA87159}|DUI\\DUI.csproj|solutionrelative:dui\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\PersonasAPI.Tests\\PersonasControllerTests.cs",
+              "RelativeDocumentMoniker": "PersonasAPI.Tests\\PersonasControllerTests.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\PersonasAPI.Tests\\PersonasControllerTests.cs",
+              "RelativeToolTip": "PersonasAPI.Tests\\PersonasControllerTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:24:49.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\DUI\\Program.cs",
+              "RelativeDocumentMoniker": "DUI\\Program.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\DUI\\Program.cs",
+              "RelativeToolTip": "DUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:17:06.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonasAPI.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\DUI\\Controllers\\PersonasAPI.cs",
+              "RelativeDocumentMoniker": "DUI\\Controllers\\PersonasAPI.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\DUI\\Controllers\\PersonasAPI.cs",
+              "RelativeToolTip": "DUI\\Controllers\\PersonasAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:14:55.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonasContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\DUI\\Models\\PersonasContext.cs",
+              "RelativeDocumentMoniker": "DUI\\Models\\PersonasContext.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\DUI\\Models\\PersonasContext.cs",
+              "RelativeToolTip": "DUI\\Models\\PersonasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:12:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\DUI\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "DUI\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\DUI\\DUI\\Models\\Persona.cs",
+              "RelativeToolTip": "DUI\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:11:34.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\librosapi\\librosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|solutionrelative:librosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{857603B0-6067-4EE2-8D4D-F46022610AE3}|LibrosApi.Test\\LibrosApi.Test.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\librosapi\\librosapi.test\\libroscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857603B0-6067-4EE2-8D4D-F46022610AE3}|LibrosApi.Test\\LibrosApi.Test.csproj|solutionrelative:librosapi.test\\libroscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\librosapi\\librosapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|solutionrelative:librosapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\librosapi\\librosapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|solutionrelative:librosapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\librosapi\\librosapi\\models\\librodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|solutionrelative:librosapi\\models\\librodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{857603B0-6067-4EE2-8D4D-F46022610AE3}|LibrosApi.Test\\LibrosApi.Test.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\librosapi\\librosapi.test\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857603B0-6067-4EE2-8D4D-F46022610AE3}|LibrosApi.Test\\LibrosApi.Test.csproj|solutionrelative:librosapi.test\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Program.cs",
-              "RelativeDocumentMoniker": "LibrosApi\\Program.cs",
-              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Program.cs",
-              "RelativeToolTip": "LibrosApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T22:01:44.989Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -53,36 +36,34 @@
               "RelativeDocumentMoniker": "LibrosApi\\Controllers\\LibrosController.cs",
               "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Controllers\\LibrosController.cs",
               "RelativeToolTip": "LibrosApi\\Controllers\\LibrosController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T21:48:30.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T22:33:13.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LibroDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Models\\LibroDbContext.cs",
-              "RelativeDocumentMoniker": "LibrosApi\\Models\\LibroDbContext.cs",
-              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Models\\LibroDbContext.cs",
-              "RelativeToolTip": "LibrosApi\\Models\\LibroDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LIbrosControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi.Test\\LIbrosControllerTests.cs",
+              "RelativeDocumentMoniker": "LibrosApi.Test\\LIbrosControllerTests.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi.Test\\LIbrosControllerTests.cs",
+              "RelativeToolTip": "LibrosApi.Test\\LIbrosControllerTests.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwGEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T21:44:02.564Z",
+              "WhenOpened": "2024-09-12T22:24:14.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Models\\Libro.cs",
-              "RelativeDocumentMoniker": "LibrosApi\\Models\\Libro.cs",
-              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Models\\Libro.cs",
-              "RelativeToolTip": "LibrosApi\\Models\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi.Test\\Setup.cs",
+              "RelativeDocumentMoniker": "LibrosApi.Test\\Setup.cs",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi.Test\\Setup.cs",
+              "RelativeToolTip": "LibrosApi.Test\\Setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T21:42:04.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T22:20:26.06Z"
             }
           ]
         }

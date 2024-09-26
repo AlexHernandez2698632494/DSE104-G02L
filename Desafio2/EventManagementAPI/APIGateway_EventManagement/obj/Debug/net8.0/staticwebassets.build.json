@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4WCIGSUdOOrlx0ifBhgk8IzqMh2iq6f3a4+uAF1lA6Q=",
+  "Source": "APIGateway_EventManagement",
+  "BasePath": "_content/APIGateway_EventManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

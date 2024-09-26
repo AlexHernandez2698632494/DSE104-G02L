@@ -1,0 +1,78 @@
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.exe
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.deps.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.runtimeconfig.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.pdb
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.AssemblyInfoInputs.cache
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.AssemblyInfo.cs
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.sourcelink.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets\msbuild.APIGateway_EventManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateway_EventManagement.props
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateway_EventManagement.props
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateway_EventManagement.props
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\scopedcss\bundle\APIGateway_EventManagement.styles.css
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\refint\APIGateway_EventManagement.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.pdb
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.genruntimeconfig.cache
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\ref\APIGateway_EventManagement.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\ocelot.json
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Ocelot.dll
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.csproj.AssemblyReference.cache
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\Documentos\DSE\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGatew.2AADC1CF.Up2Date
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\ocelot.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.exe
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.deps.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.runtimeconfig.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\APIGateway_EventManagement.pdb
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\bin\Debug\net8.0\Ocelot.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.csproj.AssemblyReference.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.AssemblyInfoInputs.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.AssemblyInfo.cs
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.csproj.CoreCompileInputs.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.sourcelink.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets\msbuild.APIGateway_EventManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateway_EventManagement.props
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateway_EventManagement.props
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateway_EventManagement.props
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\scopedcss\bundle\APIGateway_EventManagement.styles.css
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGatew.2AADC1CF.Up2Date
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\refint\APIGateway_EventManagement.dll
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.pdb
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\APIGateway_EventManagement.genruntimeconfig.cache
+C:\Users\alexh\Desktop\U\CICLO VI\EVALUACIONES\DSE1042024C02G02L\desafio2-dse\EventManagementAPI\APIGateway_EventManagement\obj\Debug\net8.0\ref\APIGateway_EventManagement.dll

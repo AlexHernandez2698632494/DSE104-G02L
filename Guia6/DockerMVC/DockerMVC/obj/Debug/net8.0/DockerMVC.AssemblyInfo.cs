@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22e37e02400497bf309c3d0359fea79316b62793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e739bcd1b7b8d57c50eda3296ed7b5d70473f68a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

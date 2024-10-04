@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\librosapi\\librosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6742E820-41B9-43CE-9BE2-E922EFA1D1CA}|LibrosApi\\LibrosApi.csproj|solutionrelative:librosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{857603B0-6067-4EE2-8D4D-F46022610AE3}|LibrosApi.Test\\LibrosApi.Test.csproj|c:\\users\\alexh\\desktop\\u\\ciclo vi\\evaluaciones\\dse1042024c02g02l\\guia9\\librosapi\\librosapi.test\\libroscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{857603B0-6067-4EE2-8D4D-F46022610AE3}|LibrosApi.Test\\LibrosApi.Test.csproj|solutionrelative:librosapi.test\\libroscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LibrosApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\appsettings.json",
+              "RelativeToolTip": "LibrosApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T19:56:35.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Program.cs",
               "RelativeDocumentMoniker": "LibrosApi\\Program.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "LibrosApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T23:16:50.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T23:16:50.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LibrosController.cs",
               "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi\\Controllers\\LibrosController.cs",
               "RelativeDocumentMoniker": "LibrosApi\\Controllers\\LibrosController.cs",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "LibrosApi\\Controllers\\LibrosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T22:33:13.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T22:33:13.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LIbrosControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi.Test\\LIbrosControllerTests.cs",
               "RelativeDocumentMoniker": "LibrosApi.Test\\LIbrosControllerTests.cs",
@@ -73,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Setup.cs",
               "DocumentMoniker": "C:\\Users\\alexh\\Desktop\\U\\CICLO VI\\EVALUACIONES\\DSE1042024C02G02L\\Guia9\\LibrosApi\\LibrosApi.Test\\Setup.cs",
               "RelativeDocumentMoniker": "LibrosApi.Test\\Setup.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "LibrosApi.Test\\Setup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T22:20:26.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T22:20:26.06Z"
             }
           ]
         }
